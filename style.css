@@ -35,7 +35,7 @@ font-family: 'Roboto', sans-serif;
     border-radius: 10px;
     margin-top: 5px;
     animation-name: example;
-    animation-duration: 10s; 
+    animation-duration: 6s; 
 }
 @keyframes example {
     from {
@@ -277,7 +277,7 @@ footer{
     .container{
         padding: 0%;
         margin-bottom: 10%;
-        height: 84vh;
+        height: 90vh;
     
     }
     .banner-image img{
